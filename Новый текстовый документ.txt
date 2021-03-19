@@ -1,6 +1,6 @@
 git init
 
-git add -A         -  проверка
+git add -A         -  проверка, осмотр
 
 git commit -m ''   -  сохранение
 
