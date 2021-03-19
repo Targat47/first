@@ -1,0 +1,14 @@
+git init
+
+git add -A  -  проверка
+
+git commit -m 'test'  сохранение
+
+git branch - все ветка 
+
+git branch b- dev  -  добавление ветки
+
+git chckout master -  переход
+
+git branch -D dev  -  удаление
+
