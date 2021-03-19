@@ -12,3 +12,11 @@ git chckout master -  переход
 
 git branch -D dev  -  удаление
 
+git push origin    -  ссылка
+
+git clone + src    -  copy at other comp
+
+git pull + src     -  скачать изменения
+
+cd  бла бла        -  зайти в ку
+
