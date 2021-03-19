@@ -1,10 +1,10 @@
 git init
 
-git add -A  -  проверка
+git add -A         -  проверка
 
-git commit -m 'test'  сохранение
+git commit -m ''   -  сохранение
 
-git branch - все ветка 
+git branch         -  все ветки 
 
 git branch b- dev  -  добавление ветки
 
